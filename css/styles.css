@@ -1,0 +1,38 @@
+.navbar-header{
+	height: 80px;
+
+}
+.navbar-default .navbar-brand{
+	
+	font-size: 3em;
+	padding-top:30px;
+	color: #83bd1a;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#nav-list{
+	margin-top: 10px;
+	text-align: center;
+}
+#nav-list a {
+  display:inline-block; 
+}
+
+.head{
+	font-size: 36px;
+	color: #446a12;
+	margin-top: 30px;
+}
+.content{
+    margin: 50px 30px;
+    background-color: #bdd986
+}
+.content p{
+	padding: 10px 20px;
+}
